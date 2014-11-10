@@ -1,4 +1,4 @@
-Instructuion
+Instructions
 
 - open command prompt.
 - change directory to project root.
